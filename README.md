@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/TencentWSRD/connect-cas2.svg?branch=master)](https://travis-ci.org/TencentWSRD/connect-cas2)
 [![Coverage Status](https://coveralls.io/repos/github/TencentWSRD/connect-cas2/badge.svg?branch=master)](https://coveralls.io/github/TencentWSRD/connect-cas2?branch=master)
 
+import from https://github.com/TencentWSRD/connect-cas2.git
+
 # connect-cas2
 
 A complete implement of CAS Client middleware for Express/Connect, support CAS 2.0+ protocol.
