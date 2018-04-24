@@ -45,7 +45,8 @@ var DEFAULT_OPTIONS = {
     status: 418
   },
   restletIntegration: {},
-  restletIntegrationIsUsingCache: true
+  restletIntegrationIsUsingCache: true,
+  validateSuccess: function() {}
 };
 
 function ConnectCas(options) {
